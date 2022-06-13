@@ -1,0 +1,3 @@
+C:\Users\aleks\source\repos\calc\calc\x64\Release\calc.vcxproj.AssemblyReference.cache
+C:\Users\aleks\source\repos\calc\calc\x64\Release\calc.MyForm.resources
+C:\Users\aleks\source\repos\calc\calc\x64\Release\calc.vcxproj.GenerateResource.cache

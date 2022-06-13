@@ -1,0 +1,30 @@
+﻿  MyForm.cpp
+C:\Users\aleks\source\repos\calc\calc\MyForm.h(398,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\aleks\source\repos\calc\calc\MyForm.h(399,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\aleks\source\repos\calc\calc\MyForm.h(416,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\aleks\source\repos\calc\calc\MyForm.h(418,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\aleks\source\repos\calc\calc\MyForm.h(419,39): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\aleks\source\repos\calc\calc\MyForm.h(421,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\aleks\source\repos\calc\calc\MyForm.h(441,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\aleks\source\repos\calc\calc\MyForm.h(442,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\aleks\source\repos\calc\calc\MyForm.h(453,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\aleks\source\repos\calc\calc\MyForm.h(455,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\aleks\source\repos\calc\calc\MyForm.h(456,39): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\aleks\source\repos\calc\calc\MyForm.h(457,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\aleks\source\repos\calc\calc\MyForm.h(486,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\aleks\source\repos\calc\calc\MyForm.h(510,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\aleks\source\repos\calc\calc\MyForm.h(489,9): warning C4101: ch: неиспользованная локальная переменная
+C:\Users\aleks\source\repos\calc\calc\MyForm.h(541,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\aleks\source\repos\calc\calc\MyForm.h(542,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\aleks\source\repos\calc\calc\MyForm.h(554,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\aleks\source\repos\calc\calc\MyForm.h(556,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\aleks\source\repos\calc\calc\MyForm.h(557,37): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\aleks\source\repos\calc\calc\MyForm.h(558,16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\aleks\source\repos\calc\calc\MyForm.h(573,8): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\aleks\source\repos\calc\calc\MyForm.h(595,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\aleks\source\repos\calc\calc\MyForm.h(576,7): warning C4101: ch: неиспользованная локальная переменная
+C:\Users\aleks\source\repos\calc\calc\MyForm.h(531,15): warning C4101: Result: неиспользованная локальная переменная
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  calc.vcxproj -> C:\Users\aleks\source\repos\calc\x64\Release\calc.exe
